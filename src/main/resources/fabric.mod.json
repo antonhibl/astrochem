@@ -1,38 +1,38 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "astrochem",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "AstroChem",
+  "description": "Compatibility Mod for Ad Astra, Alchemistry, and ChemLib",
   "authors": [
-    "Me!"
+    "Anton Hibl"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/antonhibl/astrochem",
+    "sources": "https://github.com/antonhibl/astrochem"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/astrochem/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "me.kuzhcola.astrochem.AstroChem"
     ]
   },
-  "mixins": [
-    "modid.mixins.json"
-  ],
 
   "depends": {
-    "fabricloader": ">=0.14.17",
-    "fabric-api": "*",
+    "fabricloader": ">=0.14.18",
+    "fabric-api": "0.76.0+1.19.2",
+    "ad_astra": "1.12.6",
+    "resourcefulconfig": "1.0.20",
+    "botarium": "1.8.2",
+    "resourcefullib": "1.1.24",
+    "chemlib": "1.0.1",
+    "alchemistry": "1.0.2",
     "minecraft": "~1.19.4",
     "java": ">=17"
-  },
-  "suggests": {
-    "another-mod": "*"
   }
 }

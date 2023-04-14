@@ -1,0 +1,49 @@
+{
+  "type": "alchemistry:dissolver",
+  "group": "alchemistry:dissolver",
+  "input": {
+    "item": "ad_astra:mars_cobblestone"
+  },
+  "output": {
+    "rolls": 1,
+    "weighted": true,
+    "groups": [
+      {
+        "probability": 35.0,
+        "results": [
+          {
+            "count":  1,
+            "item": "chemlib:calcium_carbonate"
+          }
+        ]
+      },
+      {
+        "probability": 50.0,
+        "results": [
+          {
+            "count": 1,
+            "item": "chemlib:iron_oxide"
+          }
+        ]
+      },
+      {
+        "probability": 30.0,
+        "results": [
+          {
+            "count": 2,
+            "item": "chemlib:sulfur"
+          }
+        ]
+      },
+      {
+        "probability": 40.0,
+        "results": [
+          {
+            "count": 2,
+            "item": "chemlib:magnesium"
+          }
+        ]
+      }
+    ]
+  }
+}

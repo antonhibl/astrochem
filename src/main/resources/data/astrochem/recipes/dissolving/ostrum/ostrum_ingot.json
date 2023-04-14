@@ -1,0 +1,49 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "item": "ad_astra:ostrum_ingot"
+    },
+    "output": {
+      "rolls": 1,
+      "weighted": true,
+      "groups": [
+        {
+          "probability": 75.0,
+          "results": [
+            {
+              "count": 6,
+              "item": "chemlib:selenium"
+            }
+          ]
+        },
+        {
+          "probability": 55.0,
+          "results": [
+            {
+              "count": 4,
+              "item": "chemlib:antimony"
+            }
+          ]
+        },
+        {
+          "probability": 55.0,
+          "results": [
+            {
+              "count": 8,
+              "item": "chemlib:cobalt"
+            }
+          ]
+        },
+        {
+            "probability": 85.0,
+            "results": [
+              {
+                "count": 8,
+                "item": "chemlib:zinc"
+              }
+            ]
+        }
+      ]
+    }
+}

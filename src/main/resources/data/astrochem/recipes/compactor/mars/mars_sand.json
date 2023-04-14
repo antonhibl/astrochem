@@ -1,0 +1,12 @@
+{
+  "type": "alchemistry:compactor",
+  "group": "compactor",
+  "input": {
+    "item": "ad_astra:mars_sand",
+    "count": 1
+  },
+  "result": {
+    "item": "chemlib:iron_oxide",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "item": "chemlib:oxygen",
+      "count": 48
+    },
+    {
+      "item": "minecraft:bucket",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "ad_astra:oxygen_bucket",
+    "count": 1
+  }
+}

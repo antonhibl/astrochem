@@ -1,0 +1,49 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "item": "ad_astra:desh_ingot"
+    },
+    "output": {
+      "rolls": 1,
+      "weighted": true,
+      "groups": [
+        {
+          "probability": 35.0,
+          "results": [
+            {
+              "count": 6,
+              "item": "chemlib:iridium"
+            }
+          ]
+        },
+        {
+          "probability": 95.0,
+          "results": [
+            {
+              "count": 8,
+              "item": "chemlib:iron"
+            }
+          ]
+        },
+        {
+          "probability": 95.0,
+          "results": [
+            {
+              "count": 8,
+              "item": "chemlib:gold"
+            }
+          ]
+        },
+        {
+          "probability": 85.0,
+          "results": [
+            {
+              "count": 6,
+              "item": "chemlib:silver"
+            }
+          ]
+        }
+      ]
+    }
+}

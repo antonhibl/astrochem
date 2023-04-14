@@ -1,0 +1,40 @@
+{
+  "type": "alchemistry:dissolver",
+  "group": "alchemistry:dissolver",
+  "input": {
+    "item": "astrochem:cryo_fuel_phial"
+  },
+  "output": {
+    "rolls": 1,
+    "weighted": true,
+    "groups": [
+      {
+        "probability": 100.0,
+        "results": [
+          {
+            "count": 4,
+            "item": "astrochem:petroleum"
+          }
+        ]
+      },
+      {
+        "probability": 100.0,
+        "results": [
+          {
+            "count": 3,
+            "item": "astrochem:cryogenic_oxygen"
+          }
+        ]
+      },
+      {
+        "probability": 100.0,
+        "results": [
+          {
+            "count": 3,
+            "item": "chemlib:cryogenic_nitrogen"
+          }
+        ]
+      }
+    ]
+  }
+}

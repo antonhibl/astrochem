@@ -1,0 +1,12 @@
+{
+  "type": "alchemistry:compactor",
+  "group": "compactor",
+  "input": {
+    "item": "ad_astra:venus_sandstone",
+    "count": 1
+  },
+  "result": {
+    "item": "chemlib:calcium_oxide",
+    "count": 1
+  }
+}

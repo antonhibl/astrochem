@@ -1,0 +1,40 @@
+{
+  "type": "alchemistry:dissolver",
+  "group": "alchemistry:dissolver",
+  "input": {
+    "item": "ad_astra:moon_stone"
+  },
+  "output": {
+    "rolls": 1,
+    "weighted": true,
+    "groups": [
+      {
+        "probability": 70.0,
+        "results": [
+          {
+            "count":  1,
+            "item": "chemlib:iron_oxide"
+          }
+        ]
+      },
+      {
+        "probability": 40.0,
+        "results": [
+          {
+            "count": 3,
+            "item": "chemlib:yttrium"
+          }
+        ]
+      },
+      {
+        "probability": 40.0,
+        "results": [
+          {
+            "count": 3,
+            "item": "chemlib:europium"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "type": "alchemistry:dissolver",
+  "group": "alchemistry:dissolver",
+  "input": {
+    "item": "ad_astra:permafrost"
+  },
+  "output": {
+    "rolls": 1,
+    "weighted": true,
+    "groups": [
+      {
+        "probability": 100.0,
+        "results": [
+          {
+            "count":  1,
+            "item": "chemlib:water"
+          }
+        ]
+      },
+      {
+        "probability": 35.0,
+        "results": [
+          {
+            "count": 3,
+            "item": "ad_astra:ice_shard"
+          }
+        ]
+      },
+      {
+        "probability": 50.0,
+        "results": [
+          {
+            "count": 1,
+            "item": "chemlib:methane"
+          }
+        ]
+      }
+    ]
+  }
+}

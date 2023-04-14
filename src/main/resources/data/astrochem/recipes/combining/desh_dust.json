@@ -1,0 +1,26 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "item": "chemlib:iridium",
+      "count": 8
+    },
+    {
+      "item": "chemlib:iron",
+      "count": 12
+    },
+    {
+      "item": "chemlib:gold",
+      "count": 12
+    },
+    {
+      "item": "chemlib:silver",
+      "count": 8
+    }
+  ],
+  "result": {
+    "item": "astrochem:desh_dust",
+    "count": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "alchemistry:dissolver",
+  "group": "alchemistry:dissolver",
+  "input": {
+    "item": "ad_astra:venus_stone"
+  },
+  "output": {
+    "rolls": 1,
+    "weighted": true,
+    "groups": [
+      {
+        "probability": 90.0,
+        "results": [
+          {
+            "count":  2,
+            "item": "chemlib:iron"
+          }
+        ]
+      },
+      {
+        "probability": 60.0,
+        "results": [
+          {
+            "count": 1,
+            "item": "chemlib:magnesium_carbonate"
+          }
+        ]
+      },
+      {
+        "probability": 60.0,
+        "results": [
+          {
+            "count": 1,
+            "item": "chemlib:potassium_chloride"
+          }
+        ]
+      },
+      {
+        "probability": 70.0,
+        "results": [
+          {
+            "count": 4,
+            "item": "chemlib:carbon"
+          }
+        ]
+      }
+    ]
+  }
+}

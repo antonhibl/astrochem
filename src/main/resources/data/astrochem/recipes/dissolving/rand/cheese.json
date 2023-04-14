@@ -1,0 +1,31 @@
+{
+  "type": "alchemistry:dissolver",
+  "group": "alchemistry:dissolver",
+  "input": {
+    "item": "ad_astra:cheese"
+  },
+  "output": {
+    "rolls": 1,
+    "weighted": true,
+    "groups": [
+      {
+        "probability": 15.0,
+        "results": [
+          {
+            "count": 1,
+            "item": "chemlib:acetic_acid"
+          }
+        ]
+      },
+      {
+        "probability": 100.0,
+        "results": [
+          {
+            "count": 1,
+            "item": "chemlib:protein"
+          }
+        ]
+      }
+    ]
+  }
+}

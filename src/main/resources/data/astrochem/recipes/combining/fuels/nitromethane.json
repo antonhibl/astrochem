@@ -1,0 +1,18 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "item": "chemlib:nitrogen_dioxide",
+      "count": 1
+    },
+    {
+      "item": "madscience:methanol",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "astrochem:nitromethane",
+    "count": 1
+  }
+}

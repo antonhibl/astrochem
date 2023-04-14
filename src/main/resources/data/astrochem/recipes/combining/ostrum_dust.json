@@ -1,0 +1,26 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "item": "chemlib:selenium",
+      "count": 10
+    },
+    {
+      "item": "chemlib:antimony",
+      "count": 8
+    },
+    {
+      "item": "chemlib:cobalt",
+      "count": 14
+    },
+    {
+      "item": "chemlib:zinc",
+      "count": 14
+    }
+  ],
+  "result": {
+    "item": "astrochem:ostrum_dust",
+    "count": 1
+  }
+}

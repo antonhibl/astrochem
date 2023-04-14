@@ -1,0 +1,40 @@
+{
+  "type": "alchemistry:dissolver",
+  "group": "alchemistry:dissolver",
+  "input": {
+    "item": "astrochem:petroleum"
+  },
+  "output": {
+    "rolls": 1,
+    "weighted": true,
+    "groups": [
+      {
+        "probability": 100.0,
+        "results": [
+          {
+            "count": 20,
+            "item": "chemlib:nitromethane"
+          }
+        ]
+      },
+      {
+        "probability": 100.0,
+        "results": [
+          {
+            "count": 14,
+            "item": "chemlib:benzene"
+          }
+        ]
+      },
+      {
+        "probability": 100.0,
+        "results": [
+          {
+            "count": 16,
+            "item": "chemlib:propane"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "item": "chemlib:oxygen",
+      "count": 4
+    },
+    {
+      "item": "ad_astra:hydrogen_sulfide",
+      "count": 3
+    }
+  ],
+  "result": {
+    "item": "astrochem:cryogenic_oxygen",
+    "count": 1
+  }
+}

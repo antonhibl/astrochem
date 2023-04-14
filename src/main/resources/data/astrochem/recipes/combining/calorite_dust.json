@@ -1,0 +1,26 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "item": "chemlib:iridium",
+      "count": 10
+    },
+    {
+      "item": "chemlib:osmium",
+      "count": 8
+    },
+    {
+      "item": "chemlib:ruthenium",
+      "count": 12
+    },
+    {
+      "item": "chemlib:palladium",
+      "count": 12
+    }
+  ],
+  "result": {
+    "item": "astrochem:calorite_dust",
+    "count": 1
+  }
+}

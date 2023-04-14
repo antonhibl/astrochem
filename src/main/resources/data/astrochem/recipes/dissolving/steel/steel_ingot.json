@@ -1,0 +1,31 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "item": "ad_astra:steel_ingot"
+    },
+    "output": {
+      "rolls": 1,
+      "weighted": true,
+      "groups": [
+        {
+          "probability": 100.0,
+          "results": [
+            {
+              "count":  16,
+              "item": "chemlib:iron"
+            }
+          ]
+        },
+        {
+          "probability": 100.0,
+          "results": [
+            {
+              "count": 2,
+              "item": "chemlib:graphite"
+            }
+          ]
+        }
+      ]
+    }
+}

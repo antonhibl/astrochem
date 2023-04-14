@@ -1,0 +1,12 @@
+{
+  "type": "alchemistry:compactor",
+  "group": "compactor",
+  "input": {
+    "item": "ad_astra:mars_cobblestone",
+    "count": 1
+  },
+  "result": {
+    "item": "chemlib:iron_ii_oxide",
+    "count": 1
+  }
+}

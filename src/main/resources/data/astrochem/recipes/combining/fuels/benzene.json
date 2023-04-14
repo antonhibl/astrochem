@@ -1,0 +1,18 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "item": "chemlib:hydrogen",
+      "count": 6
+    },
+    {
+      "item": "chemlib:carbon",
+      "count": 6
+    }
+  ],
+  "result": {
+    "item": "astrochem:benzene",
+    "count": 1
+  }
+}

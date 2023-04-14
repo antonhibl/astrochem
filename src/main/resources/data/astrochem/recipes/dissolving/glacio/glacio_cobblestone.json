@@ -1,0 +1,58 @@
+{
+  "type": "alchemistry:dissolver",
+  "group": "alchemistry:dissolver",
+  "input": {
+    "item": "ad_astra:glacio_cobblestone"
+  },
+  "output": {
+    "rolls": 1,
+    "weighted": true,
+    "groups": [
+      {
+        "probability": 45.0,
+        "results": [
+          {
+            "count": 3,
+            "item": "chemlib:silicon"
+          }
+        ]
+      },
+      {
+        "probability": 65.0,
+        "results": [
+          {
+            "count": 3,
+            "item": "chemlib:iron"
+          }
+        ]
+      },
+      {
+        "probability": 35.0,
+        "results": [
+          {
+            "count": 2,
+            "item": "chemlib:potassium"
+          }
+        ]
+      },
+      {
+        "probability": 40.0,
+        "results": [
+          {
+            "count": 2,
+            "item": "chemlib:aluminum"
+          }
+        ]
+      },
+      {
+        "probability": 40.0,
+        "results": [
+          {
+            "count": 2,
+            "item": "chemlib:calcium"
+          }
+        ]
+      }
+    ]
+  }
+}

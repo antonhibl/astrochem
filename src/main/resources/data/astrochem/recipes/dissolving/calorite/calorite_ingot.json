@@ -1,0 +1,49 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "item": "ad_astra:calorite_ingot"
+    },
+    "output": {
+      "rolls": 1,
+      "weighted": true,
+      "groups": [
+        {
+          "probability": 85.0,
+          "results": [
+            {
+              "count": 6,
+              "item": "chemlib:iridium"
+            }
+          ]
+        },
+        {
+          "probability": 95.0,
+          "results": [
+            {
+              "count": 4,
+              "item": "chemlib:osmium"
+            }
+          ]
+        },
+        {
+            "probability": 55.0,
+            "results": [
+              {
+                "count": 8,
+                "item": "chemlib:ruthenium"
+              }
+            ]
+        },
+        {
+          "probability": 55.0,
+          "results": [
+            {
+              "count": 8,
+              "item": "chemlib:palladium"
+            }
+          ]
+        }
+      ]
+    }
+}

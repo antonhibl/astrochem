@@ -1,8 +1,8 @@
-# Fabric Example Mod
+# AstroChem
 
-## Setup
+## About
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This mod adds compatibilities between Ad Astra and Alchemistry/ChemLib for Fabric MC 1.19.2.
 
 ## License
 

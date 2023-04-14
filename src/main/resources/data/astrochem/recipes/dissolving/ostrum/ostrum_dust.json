@@ -1,0 +1,49 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "item": "astrochem:ostrum_dust"
+    },
+    "output": {
+      "rolls": 1,
+      "weighted": true,
+      "groups": [
+        {
+          "probability": 55.0,
+          "results": [
+            {
+              "count": 6,
+              "item": "chemlib:selenium"
+            }
+          ]
+        },
+        {
+          "probability": 35.0,
+          "results": [
+            {
+              "count": 4,
+              "item": "chemlib:antimony"
+            }
+          ]
+        },
+        {
+          "probability": 35.0,
+          "results": [
+            {
+              "count": 8,
+              "item": "chemlib:cobalt"
+            }
+          ]
+        },
+        {
+            "probability": 65.0,
+            "results": [
+              {
+                "count": 8,
+                "item": "chemlib:zinc"
+              }
+            ]
+        }
+      ]
+    }
+}

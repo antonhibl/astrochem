@@ -1,0 +1,49 @@
+{
+  "type": "alchemistry:dissolver",
+  "group": "alchemistry:dissolver",
+  "input": {
+    "item": "ad_astra:conglomerate"
+  },
+  "output": {
+    "rolls": 1,
+    "weighted": true,
+    "groups": [
+      {
+        "probability": 35.0,
+        "results": [
+          {
+            "count":  1,
+            "item": "chemlib:iron_oxide"
+          }
+        ]
+      },
+      {
+        "probability": 30.0,
+        "results": [
+          {
+            "count": 1,
+            "item": "chemlib:calcium_sulfate"
+          }
+        ]
+      },
+      {
+        "probability": 50.0,
+        "results": [
+          {
+            "count": 3,
+            "item": "chemlib:potassium"
+          }
+        ]
+      },
+      {
+        "probability": 60.0,
+        "results": [
+          {
+            "count": 3,
+            "item": "chemlib:silicon"
+          }
+        ]
+      }
+    ]
+  }
+}

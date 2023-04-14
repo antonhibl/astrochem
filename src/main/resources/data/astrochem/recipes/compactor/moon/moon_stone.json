@@ -1,0 +1,12 @@
+{
+  "type": "alchemistry:compactor",
+  "group": "compactor",
+  "input": {
+    "item": "ad_astra:moon_stone",
+    "count": 1
+  },
+  "result": {
+    "item": "chemlib:magnesium_oxide",
+    "count": 1
+  }
+}

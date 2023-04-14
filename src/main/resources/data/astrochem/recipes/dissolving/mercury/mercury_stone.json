@@ -1,0 +1,40 @@
+{
+  "type": "alchemistry:dissolver",
+  "group": "alchemistry:dissolver",
+  "input": {
+    "item": "ad_astra:mercury_stone"
+  },
+  "output": {
+    "rolls": 1,
+    "weighted": true,
+    "groups": [
+      {
+        "probability": 55.0,
+        "results": [
+          {
+            "count":  1,
+            "item": "chemlib:zinc_sulfide"
+          }
+        ]
+      },
+      {
+        "probability": 65.0,
+        "results": [
+          {
+            "count": 3,
+            "item": "chemlib:silicon"
+          }
+        ]
+      },
+      {
+        "probability": 45.0,
+        "results": [
+          {
+            "count": 1,
+            "item": "chemlib:titanium_oxide"
+          }
+        ]
+      }
+    ]
+  }
+}

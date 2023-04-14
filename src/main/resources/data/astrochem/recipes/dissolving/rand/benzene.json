@@ -1,0 +1,31 @@
+{
+  "type": "alchemistry:dissolver",
+  "group": "alchemistry:dissolver",
+  "input": {
+    "item": "astrochem:benzene"
+  },
+  "output": {
+    "rolls": 1,
+    "weighted": true,
+    "groups": [
+      {
+        "probability": 100.0,
+        "results": [
+          {
+            "count": 6,
+            "item": "chemlib:carbon"
+          }
+        ]
+      },
+      {
+        "probability": 100.0,
+        "results": [
+          {
+            "count": 6,
+            "item": "chemlib:hydrogen"
+          }
+        ]
+      }
+    ]
+  }
+}
