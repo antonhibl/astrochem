@@ -32,7 +32,7 @@
     "resourcefullib": "1.1.24",
     "chemlib": "1.0.1",
     "alchemistry": "1.0.2",
-    "minecraft": "~1.19.4",
+    "minecraft": "~1.19.2",
     "java": ">=17"
   }
 }
