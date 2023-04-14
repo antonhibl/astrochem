@@ -3,7 +3,7 @@
   "group": "alchemistry:combiner",
   "input": [
     {
-      "item": "chemlib:petroleum",
+      "item": "astrochem:petroleum",
       "count": 4
     },
     {
@@ -11,7 +11,7 @@
       "count": 3
     },
     {
-      "item": "chemlib:cryogenic_oxygen",
+      "item": "astrochem:cryogenic_oxygen",
       "count": 3
     }
   ],
