@@ -3,20 +3,16 @@
   "group": "alchemistry:combiner",
   "input": [
     {
-      "item": "astrochem:petroleum",
-      "count": 4
+      "item": "astrochem:cryo_fluid_phial",
+      "count": 32
     },
     {
-      "item": "astrochem:cryogenic_nitrogen",
-      "count": 3
-    },
-    {
-      "item": "astrochem:cryogenic_oxygen",
-      "count": 3
+      "item": "minecraft:bucket",
+      "count": 1
     }
   ],
   "result": {
-    "item": "astrochem:cryo_fluid_phial",
+    "item": "ad_astra:cryo_fuel_bucket",
     "count": 1
   }
 }
