@@ -34,7 +34,7 @@ public class AstroChem implements ModInitializer {
 					new Item(new FabricItemSettings()));
 
 	// Methanol
-	public static final Item Methanol =
+	public static final Item METHANOL =
 			Registry.register(Registry.ITEM, new Identifier("astrochem", "methanol"),
 					new Item(new FabricItemSettings()));
 

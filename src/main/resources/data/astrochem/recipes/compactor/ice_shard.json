@@ -2,7 +2,7 @@
   "type": "alchemistry:compactor",
   "group": "compactor",
   "input": {
-    "item": "chemlib:cryo_fluid_phial",
+    "item": "astrochem:cryo_fluid_phial",
     "count": 6
   },
   "result": {

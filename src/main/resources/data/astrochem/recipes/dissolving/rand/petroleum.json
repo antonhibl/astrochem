@@ -13,7 +13,7 @@
         "results": [
           {
             "count": 20,
-            "item": "chemlib:nitromethane"
+            "item": "astrochem:nitro_methane"
           }
         ]
       },
@@ -22,7 +22,7 @@
         "results": [
           {
             "count": 14,
-            "item": "chemlib:benzene"
+            "item": "astrochem:benzene"
           }
         ]
       },
