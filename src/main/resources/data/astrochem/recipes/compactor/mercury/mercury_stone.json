@@ -2,11 +2,11 @@
   "type": "alchemistry:compactor",
   "group": "compactor",
   "input": {
-    "item": "ad_astra:mercury_stone",
+    "item": "chemlib:zinc_oxide",
     "count": 1
   },
   "result": {
-    "item": "chemlib:zinc_oxide",
+    "item": "ad_astra:mercury_stone",
     "count": 1
   }
 }

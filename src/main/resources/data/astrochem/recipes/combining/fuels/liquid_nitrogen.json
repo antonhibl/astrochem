@@ -3,7 +3,7 @@
   "group": "alchemistry:combiner",
   "input": [
     {
-      "item": "chemlib:nitrogen_oxide",
+      "item": "chemlib:nitric_oxide",
       "count": 4
     },
     {

@@ -35,7 +35,7 @@ public class AstroChem implements ModInitializer {
 
 	// Methanol
 	public static final Item Methanol =
-			Registry.register(Registry.ITEM, new Identifier("astrochem", "Methanol"),
+			Registry.register(Registry.ITEM, new Identifier("astrochem", "methanol"),
 					new Item(new FabricItemSettings()));
 
 	// Nitro-Methane
