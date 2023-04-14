@@ -1,0 +1,17 @@
+{
+  "item.madscience.ostrum_dust": "Ostrum Dust",
+  "item.madscience.desh_dust": "Desh Dust",
+  "item.madscience.calorite_dust": "Calorite Dust",
+
+  "item.madscience.methanol": "Methanol",
+  "item.madscience.nitromethane": "Nitro-Methane",
+  "item.madscience.benzene": "Benzene",
+
+  "item.madscience.cryogenic_nitrogen": "Cryogenic Nitrogen",
+  "item.madscience.cryogenic_oxygen": "Cryogenic Oxygen",
+
+  "item.madscience.petroleum": "Petroleum",
+  "item.madscience.cryo_fuel_phial": "Cryo Fluid Phial",
+
+  "itemGroup.astrochem.item_group": "AstroChem"
+}

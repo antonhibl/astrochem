@@ -7,16 +7,16 @@
       "count": 16
     },
     {
-      "item": "madscience:benzene",
+      "item": "astrochem:benzene",
       "count": 14
     },
     {
-      "item": "madscience:nitromethane",
+      "item": "astrochem:nitromethane",
       "count": 20
     }
   ],
   "result": {
-    "item": "madscience:petroleum",
+    "item": "astrochem:petroleum",
     "count": 1
   }
 }
